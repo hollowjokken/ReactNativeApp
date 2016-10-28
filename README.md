@@ -1,1 +1,3 @@
 # ReactNativeApp
+
+Student management app
